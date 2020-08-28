@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Candle"},{"p":"<Unnamed>","l":"CandleGUI"},{"p":"<Unnamed>","l":"CandleNode"},{"p":"<Unnamed>","l":"Project2"},{"p":"<Unnamed>","l":"SortedCandleList"},{"p":"<Unnamed>","l":"TextFileInput"},{"p":"<Unnamed>","l":"UnsortedCandleList"}]
